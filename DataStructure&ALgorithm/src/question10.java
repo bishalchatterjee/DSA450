@@ -35,7 +35,8 @@ public class question10 {
         return -1;
     }
     public static void main(String[] args) {
-        int arr[] = {1, 3, 5, 8, 9,2,6,7,6,8,9};
+//        int arr[] = {1, 3, 5, 8, 9,2,6,7,6,8,9};
+        int arr[] = {3,4,2,1,2,1};
         System.out.println(minJumps(arr));
     }
 }
