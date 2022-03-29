@@ -20,7 +20,7 @@ public class question55 {
         return dp[m][n];
     }
     public static void main(String[] args) {
-        String s="aaaabbaa";
+        String s="axxxy";
         System.out.println(LongestRepeatingSubsequence(s));
 
     }
